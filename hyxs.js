@@ -1,23 +1,3 @@
-/*
-20220424 tom
-
-扫码打开小程序获取ck  小程序进不去 自己想办法  能撸到多少算多少吧  
-
-撸了不一定有，不撸肯定没有！
-TG频道 https://t.me/tom_ww     
-
-圈X配置如下，其他软件自行测试
-cron自己设置 
-
-[rewrite_local]
-#火云邪神
-https://yezi.jiaaisi.cn/users url script-request-header hyxs.js
-[MITM]
-hostname = yezi.jiaaisi.cn
-*/
-
-
-
 const $ = new Env('火云邪神');
 let status;
 
