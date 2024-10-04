@@ -1,0 +1,136 @@
+# > 苹果推送服务
+DOMAIN-KEYWORD, push.apple.com
+# > 苹果时间同步
+DOMAIN, time.apple.com
+# > 苹果天气服务
+DOMAIN-KEYWORD, weather-edge.apple.com
+DOMAIN-KEYWORD, weather-adge.apple.com
+DOMAIN-KEYWORD, weather-data.apple.com
+DOMAIN-KEYWORD, weather-map.apple.com
+DOMAIN-KEYWORD, weather-analytics-events.apple.com
+# > 苹果内购服务
+DOMAIN-KEYWORD, buy.itunes.apple.com
+DOMAIN, api.revenuecat.com
+# > 苹果icloud
+DOMAIN-KEYWORD, icloud.com
+# > 苹果输入法相关服务
+DOMAIN-KEYWORD, api.smoot.apple.com
+DOMAIN-KEYWORD, api.smoot.apple.cn
+# > 苹果iMessage服务
+DOMAIN, init.ess.apple.com
+# > 苹果其他服务
+DOMAIN-KEYWORD, ssl.apple.com
+DOMAIN-KEYWORD, humb.apple.com
+DOMAIN, smp-device-content.apple.com
+DOMAIN-KEYWORD, api-adservices.apple.com
+DOMAIN-KEYWORD, ls.apple.com
+DOMAIN-KEYWORD, gsa.apple.com
+DOMAIN-KEYWORD, ess.apple.com
+
+# > 字节
+DOMAIN-SUFFIX, snssdk.com
+DOMAIN-SUFFIX, bytedance.com
+DOMAIN-SUFFIX, byteimg.com
+
+# > 快手修正
+DOMAIN-SUFFIX, e.kuaishou.com
+DOMAIN-SUFFIX, kuaishou.com
+DOMAIN-SUFFIX, yximgs.com
+DOMAIN-SUFFIX, ksapisrv.com
+
+# > qq邮箱修正
+DOMAIN-SUFFIX, iwx.mail.qq.com
+# > wps简历
+DOMAIN-SUFFIX, dl.op.wpscdn.cn
+DOMAIN, mo.res.wpscdn.cn
+# > 同程修正
+DOMAIN-SUFFIX, 17u.cn
+DOMAIN-SUFFIX, 40017.cn
+# > 驾考宝典
+DOMAIN,short-video.kakamobi.cn,direct
+# > 飞猪
+DOMAIN-SUFFIX,apoll.m.taobao.com,direct
+DOMAIN-SUFFIX,acs.m.taobao.com,direct
+# > 今日热榜
+DOMAIN-SUFFIX, tophub.app
+# > 携程
+DOMAIN-KEYWORD, aw-s.tripcdn.com
+DOMAIN-KEYWORD, trip.com
+# > 中国移动登陆
+DOMAIN, www.cmpassport.com
+DOMAIN, verify.cmpassport.com
+# > 米家
+DOMAIN, app.chat.xiaomi.net
+# > 搜狗
+DOMAIN, get.sogou.com
+
+# > QQ空间
+DOMAIN-KEYWORD, ctc.qzs.qzone.qq.com
+# > 路由器后台
+ip-cidr, 192.168.0.1/24
+# > 天翼网关
+ip-cidr, 192.168.1.1/24
+# > 其他分流修正
+DOMAIN-KEYWORD, anti-ad.net
+
+# > 大师兄影视
+DOMAIN,sdk.alibaba.com.ailbaba.me
+DOMAIN,img.ffzypic.com
+DOMAIN,img.liangzipic.com
+DOMAIN,img.bfzypic.com
+DOMAIN,img.kuaikanzy.net
+DOMAIN,vip.imgffzy.com
+DOMAIN,vip.ffzyread.com
+DOMAIN,cdn.jsdelivr.net
+DOMAIN,image.maimn.com
+DOMAIN-KEYWORD,bfzycdn.com
+DOMAIN-KEYWORD,vip.kuaikan-cdn
+DOMAIN-KEYWORD,vip.ffzy-play
+DOMAIN-KEYWORD,vip.ffzy-online
+
+# > 爱影视
+DOMAIN,static.jssp.tv
+DOMAIN,lain.bgm.tv
+DOMAIN,tiao.cjkypo.com
+DOMAIN,ok.zuidapic.com
+DOMAIN,ts.thefilehosting.com
+DOMAIN,deo.shopeemobile.com
+DOMAIN,m3u8.255tv.tk
+DOMAIN,m3u8.mstopq.com
+DOMAIN,ain.bgm.tv
+DOMAIN-KEYWORD,vip.lz-cdn
+DOMAIN-KEYWORD,ax1x.com
+DOMAIN-KEYWORD,o.lencr.org
+DOMAIN-KEYWORD,ttcdn-tos.kkimg.cc
+
+# > 网易
+DOMAIN, api.iplay.163.com
+DOMAIN, rcs.cmpassport.com
+DOMAIN, ac.dun.163yun.com
+
+# > xiaomi
+DOMAIN, hm.baidu.com
+DOMAIN, static.fengkongcloud.com
+DOMAIN, a.stat.xiaomi.com
+DOMAIN, e.cn.miaozhen.com
+
+# > alipay
+DOMAIN, amdc.alipay.com
+
+# > 京东
+DOMAIN, gia.jd.com
+DOMAIN, img-x.jd.com
+DOMAIN, policy.jd.com
+
+# > 网易邮箱
+DOMAIN, count.mail.163.com
+
+# > 收钱吧
+DOMAIN, sdk.open.talk.gepush.com
+DOMAIN, sdk.open.talk.getui.com
+DOMAIN, ads-shopping.shouqianba.com
+
+# > 美团
+DOMAIN-SUFFIX, d.meituan.net
+
+DOMAIN, api.onesignal.com
