@@ -30,6 +30,9 @@ DOMAIN-KEYWORD, ess.apple.com
 # > 字节
 DOMAIN-SUFFIX, snssdk.com
 DOMAIN-SUFFIX, bytedance.com
+DOMAIN-SUFFIX, bytedance.net
+DOMAIN-SUFFIX,bytedance.org
+DOMAIN-SUFFIX,bytedanceapi.com
 DOMAIN-SUFFIX, byteimg.com
 
 # > 快手修正
